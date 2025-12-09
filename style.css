@@ -1,4 +1,4 @@
-/* ----- GLOBAL STYLES ----- */
+/*GLOBAL*/
 *{
     margin: 0;
     padding: 0;
@@ -12,7 +12,7 @@ body{
     line-height: 1.6;
 }
 
-/* ----- NAVBAR ----- */
+/*NAVBAR*/
 .navbar{
     width: 100%;
     background: #1e2a47;
@@ -39,7 +39,7 @@ body{
     color: #ffcc00;
 }
 
-/* ----- HOME PAGE HERO ----- */
+/*HOME PAGE*/
 .hero{
     padding: 80px;
     text-align: center;
@@ -56,7 +56,7 @@ body{
     color: #333;
 }
 
-/* ----- ABOUT PAGE ----- */
+/*ABOUT PAGE*/
 .about-section{
     width: 80%;
     margin: 50px auto;
@@ -78,7 +78,7 @@ body{
     font-size: 18px;
 }
 
-/* ----- SKILLS CARDS ----- */
+/*SKILLS*/
 .skills-container{
     width: 85%;
     margin: 40px auto;
@@ -112,7 +112,7 @@ body{
     font-size: 15px;
 }
 
-/* ----- CONTACT FORM ----- */
+/*CONTACT FORM*/
 .form-container{
     width: 60%;
     margin: 40px auto;
@@ -145,4 +145,5 @@ button:hover{
     color: black;
     transition: 0.3s;
 }
+
 
